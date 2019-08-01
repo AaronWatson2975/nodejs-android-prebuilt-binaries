@@ -65,7 +65,7 @@ ___adb shell “node /data/local/tmp/ProjectRTC/app.js”___
 
 If you see the text “Express server listening on port 3000” it means it’s working!
 
-## Awesome!##
+## Awesome! ##
 There you have it, you just launched Javascript code on an Android device. Now you can turn your phone into a fully-fledged webserver if you like! (Although I wouldn’t recommend it)
 
 Thanks for taking the time to read this, I hope you found it helpful. I know I wished this was here when I originally had to get this working, it would have saved me a bunch of time. If you have any questions or comments don’t hesitate to drop me a line.
